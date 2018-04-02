@@ -1,3 +1,3 @@
-# video search App based on react
+# Video Search App based on React
 
 
